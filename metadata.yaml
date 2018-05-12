@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '32334'
     url: http://www.gutenberg.org/2009/agents/32334
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27141#Adenoids--What-They-Are-How-To-Recognize-Them-What-To-Do-For-Them
 gutenberg_issued: '2008-11-03'
 gutenberg_type: Text
 identifiers:
